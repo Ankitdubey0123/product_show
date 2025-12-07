@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Running shoes",
+    "imageUrl": "https://picsum.photos/400?1"
+  },
+  {
+    "id": "2",
+    "title": "Laptop",
+    "imageUrl": "https://picsum.photos/400?2"
+  },
+  {
+    "id": "3",
+    "title": "Headphones",
+    "imageUrl": "https://picsum.photos/400?2"
+  }
+]
